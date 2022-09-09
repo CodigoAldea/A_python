@@ -26,7 +26,7 @@
         4. nested
         5. Mutable 
 '''
-l = [['a', 'b'], ['c', 'd'], ['e']]
-l = l[0:1]+["z"]+l[1:]
-print(l) # +ve index 
-#print(l[-3])
+
+# how to read a list 
+l = ["a","b","c","d","e",'f','g']
+print(l[1::2])
