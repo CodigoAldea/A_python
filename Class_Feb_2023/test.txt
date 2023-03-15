@@ -1,0 +1,11 @@
+this is a python class
+hello
+world
+online 
+good 
+day 
+
+
+Access  mode : 
+
+    x : create a new file with specified name 
