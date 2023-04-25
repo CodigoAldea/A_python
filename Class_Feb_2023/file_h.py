@@ -17,6 +17,7 @@ a = open("test.txt", "r")
 n=int(input("Enter the number of line : "))
 for i in a.readlines()[-n:]: 
     print(i, end='')
+    
 
 
 """# for writng in the file : 
